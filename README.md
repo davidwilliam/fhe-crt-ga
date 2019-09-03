@@ -1,5 +1,5 @@
 # FHE
-Ruby code for an FHE Library
+A fully homomorphic encryption scheme Ruby library based on Hensel code, Chinese Remainder Theorem and Geometric Algebra
 
 ## Requirements
 
@@ -78,3 +78,7 @@ Decrypt c1_mul_c2:
 As a result you should get:
 
 `=> (48279/1)`
+
+## Contact
+
+If you have any questions, please send an email to dhonorio@uccs.edu
